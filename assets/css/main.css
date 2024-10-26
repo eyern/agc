@@ -193,7 +193,7 @@ section {
   inset: 0;
   z-index: 999999;
   overflow: hidden;
-  background: #fff;
+  background: #000;
   transition: all 0.6s ease-out;
 }
 
